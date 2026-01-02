@@ -1,5 +1,7 @@
 # Gmail Inbox Cleanup
 
+[![Personal Gmail tool – not Google verified](https://img.shields.io/badge/Personal%20Gmail%20tool-Not%20Google%20verified-orange)](#)
+
 CLI utility to safely reduce your Gmail inbox size while keeping purchase/receipt emails. It:
 - Archives INBOX mail between **7 years** and **3 days** old (removes the INBOX label)
 - Trashes (or permanently deletes) INBOX mail older than **7 years**
